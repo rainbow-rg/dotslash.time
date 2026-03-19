@@ -1,0 +1,26 @@
+﻿body
+{
+    font-size:30px;
+}
+.hyouzikeisiki{
+    height:30px;
+    position:relative;
+    bottom:6px;
+}
+.haikei {
+    height: 30px;
+    position: relative;
+    bottom: 6px;
+}
+.settingbutton {
+    font-size: 30px;
+    height: 30px;
+}
+.kanryou {
+    font-size: 15px;
+    position: relative;
+    bottom:10px;
+}
+a:visited {
+    color: blue;
+}
